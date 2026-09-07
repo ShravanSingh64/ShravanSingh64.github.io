@@ -9,6 +9,8 @@ collections:
   projects:
     output: false          # cards on the index only, no per-project pages yet
 
+permalink: /blog/:title/
+
 defaults:
   - scope:
       path: ""
