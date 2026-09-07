@@ -2,8 +2,9 @@ title: Shravan
 description: >-
   Embedded Linux software engineer — C++/Qt HMIs, Yocto
 url: "https://ShravanSingh64.github.io"
-
+author: Shravan Singh
 theme: minima
+
 
 collections:
   projects:
