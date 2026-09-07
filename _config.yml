@@ -1,0 +1,25 @@
+title: Shravan
+description: >-
+  Embedded Linux software engineer — C++/Qt HMIs, Yocto
+url: "https://ShravanSingh64.github.io"
+
+theme: minima
+
+collections:
+  projects:
+    output: false          # cards on the index only, no per-project pages yet
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+header_pages:
+  - index.md
+
+minima:
+  social_links:
+    github: yourusername
+    linkedin: yourusername
